@@ -1,0 +1,3 @@
+Vehicle Parked: TN42AI3424
+Vehicle Parked: TN39LH6946
+Vehicle Removed: TN39LH6946 Charge: 148.0
